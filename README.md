@@ -1,9 +1,4 @@
-![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
-![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
-[![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
-
-# Astronaut
+# Nine West website
 
 _website design project_
 
@@ -13,24 +8,19 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/MantasKukulskis/astronaut
+Site published at: https://github.com/MantasKukulskis/boots_website
 
-Design: https://www.pinterest.com/pin/464293042846052714/
+Design: by mentorė Gabija (BIT)
 
 ## 🎯 Project features/goals
 
 - Github pages
-- big screen only (no responsive design)
-- fixed width and in the center of the screen
-- social icons (FontAwesome)
+- responsive design
+- fixed width and center of the sceen
+- social icons (FontAwesome, etc)
 - Google Fonts
 - favicon
-- advanced CSS selectors
-- copyright symbol
-- button: user select none
-- button: hover state
-- main nav: hover state
-- main nav: selected menu option
+- HTML forms
 
 ## 🧰 Getting Started
 
@@ -54,7 +44,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/MantasKukulskis/astronaut.git
+   git clone https://github.com/MantasKukulskis/boots_website.git
    ```
 2. Install NPM packages
    ```sh
@@ -75,7 +65,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Mantas: [Github](https://github.com/MantasKukulskis)
+Rokas: [Github](https://github.com/MantasKukulskis)
 
 ## ⚠️ License
 

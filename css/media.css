@@ -1,0 +1,208 @@
+@media (max-width: 75rem) {
+    .header__links {
+      flex-wrap: wrap;
+    }
+  
+    .header__right p {
+      display: none;
+    }
+  }
+  
+  /* 900 px */
+  @media (max-width: 56rem) {
+    header {
+      flex-direction: column;
+    }
+    .header__nav {
+      width: 100%;
+    }
+    .header__right {
+      width: 100%;
+      margin-top: 2%;
+    }
+    .header__right__up {
+      display: none;
+    }
+    .fa-user-circle {
+      display: contents;
+    }
+    .header__right__down {
+      width: 100%;
+      justify-content: flex-end;
+    }
+    .footer-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .footers-left,
+    .footer-center,
+    .footer-right {
+      margin: 0 0 2rem 0;
+      width: 50%;
+    }
+    .subfooter > p:first-child {
+      display: none;
+    }
+    .subfooter {
+      justify-content: center;
+    }
+    .pirma,
+    .antra,
+    .trecia,
+    .ketvirta {
+      margin-top: 1em;
+    }
+  }
+  
+  /* 625 px */
+  @media (max-width: 39rem) {
+    .batai__row {
+      flex-direction: column;
+    }
+  
+    .batai__row > div {
+      width: 100%;
+      justify-content: center;
+      flex-direction: row;
+      margin: 2% 0;
+    }
+    .batai__row > div > img {
+      width: 40%;
+    }
+    .batai__row__text {
+      text-align: center;
+      width: 60%;
+    }
+    .batai__row__text > h2 {
+      font-size: 1.25em;
+      margin: 30px 0 17px;
+    }
+    .batai__row a {
+      font-size: 0.75rem;
+    }
+    .batai__row p {
+      line-height: 1.5rem;
+    }
+    .toohot {
+      font-size: 1.25em;
+    }
+    .vid {
+      line-height: 1.5rem;
+    }
+  
+    .div_prie_foto {
+      align-items: center;
+    }
+    .shophandbags {
+      font-size: 0.75rem;
+    }
+    .footers-left,
+    .footer-center,
+    .footer-right {
+      margin: 0 0 2rem 0;
+      width: 75%;
+    }
+    .subfooter > p:first-child {
+      display: none;
+    }
+    .subfooter {
+      justify-content: center;
+    }
+    .pirma,
+    .antra,
+    .trecia,
+    .ketvirta {
+      margin-top: 0.5em;
+    }
+    .sign__in,
+    .sign__up {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+    .sign__in p,
+    .sign__up p {
+      display: flex;
+      line-height: normal;
+    }
+    .sign__up a {
+      line-height: normal;
+    }
+    .sign__up {
+      margin-top: 1.2rem;
+    }
+    .forgot {
+      font-size: 0.6rem;
+    }
+    .email__pass,
+    .sign__in,
+    .sign__up {
+      width: 70%;
+    }
+  }
+  
+  /* 500px */
+  @media (max-width: 31rem) {
+    .batai__row > div > img {
+      width: 50%;
+    }
+    .batai__row__text {
+      text-align: center;
+      width: 50%;
+    }
+    .batai__row__text > h2 {
+      font-size: 1em;
+      margin: 23px 0 12px;
+    }
+    .batai__row a {
+      font-size: 0.62rem;
+    }
+    .batai__row p {
+      line-height: 1.2rem;
+    }
+    .toohot {
+      font-size: 1em;
+      line-height: 1.4rem;
+    }
+    .vid {
+      line-height: 1.2rem;
+    }
+    .div_prie_foto {
+      align-items: center;
+    }
+    .shophandbags {
+      font-size: 0.62rem;
+    }
+    .footers-left,
+    .footer-center,
+    .footer-right {
+      margin: 0 0 2rem 0;
+      width: 100%;
+    }
+    .serch,
+    .socials,
+    .footer-links,
+    .btn {
+      width: 80%;
+    }
+    .subfooter > p:first-child {
+      display: none;
+    }
+    .subfooter {
+      justify-content: center;
+    }
+    .pirma,
+    .antra,
+    .trecia,
+    .ketvirta {
+      margin-top: 0;
+    }
+    .prekes p {
+      font-size: 0.62rem;
+    }
+    .email__pass,
+    .sign__in,
+    .sign__up {
+      width: 90%;
+    }
+  }
